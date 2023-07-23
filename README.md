@@ -15,4 +15,5 @@ ssd: samsung 980 2TB (i have others, but they are irrelavent cuz I'm not install
 
 # Kexts:
 go find them in the directory, im too lazy to put them here.
-
+# note
+im unable to include basesystem.dmg since it exceeds github's 25MB limiit, but it loads into the environment just fine so I dont think that it is the issue
