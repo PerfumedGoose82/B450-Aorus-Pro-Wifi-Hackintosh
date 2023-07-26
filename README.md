@@ -1,5 +1,7 @@
 # B450-Aorus-Pro-Wifi-Hackintosh
-Successful hackintosh with the efi to help others on the internet with the same motherboard (:
+Successful hackintosh on ventura with the efi to help others on the internet with the same motherboard (:
+![Screenshot 2023-07-25 at 14 01 09](https://github.com/PerfumedGoose82/B450-Aorus-Pro-Wifi-Hackintosh/assets/79411991/8ec1388a-8e0c-4322-8fcd-a41348d6421e)
+
 # specs:
 Motherboard: B450 Aorus pro wifi
 
