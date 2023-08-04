@@ -1,0 +1,6 @@
+[    0.502372]: itlwm: iwm_match devId=0x1539[    0.502379]: itlwm: free[    0.502421]: RadeonSensor initializeditlwm: iwm_match devId=0x2526[    0.519050]: itlwm: iwm_attach[    0.519133]: itlwm: , [    0.519139]: itlwm: iwm_prepare_card_hw[    0.554460]: itlwm: itlwm: Failed to wake up the nic[    0.554479]: itlwm: ieee80211_ifdetach[    0.554480]: itlwm: ieee80211_proto_detach[    0.554481]: itlwm: ieee80211_crypto_detach[    0.554483]: itlwm: ieee80211_node_detach[    0.554485]: itlwm: ifmedia_delete_instance[    0.554487]: itlwm: releaseAll[    0.554490]: itlwm: releaseAll[    0.554490]: itlwm: attach fail[    0.554496]: itlwm: free[    0.554497]: itlwm: virtual void ItlHalService::free()[    0.554560]: itlwm: free
+
+Time ran: 2023-08-03 20:28:09.5140
+itlwm loaded version: Unknown (Firmware: Unknown)
+
+macOS Version 13.4.1 (c) (Build 22F770820d)

@@ -1,0 +1,14 @@
+
+2023-08-04 01:27:42 +0000;    com.OpenIntelWireless.HeliPort;    HeliPort;    ERROR: itlwm kext not loaded!
+2023-08-04 01:27:49 +0000;    com.OpenIntelWireless.HeliPort;    HeliPort;    DEBUG: Wi-Fi powered on
+2023-08-04 01:27:49 +0000;    com.OpenIntelWireless.HeliPort;    HeliPort;    ERROR: Failed get card state
+2023-08-04 01:27:51 +0000;    com.OpenIntelWireless.HeliPort;    HeliPort;    ERROR: Failed get card state
+2023-08-04 01:27:52 +0000;    com.OpenIntelWireless.HeliPort;    HeliPort;    DEBUG: Clicked Create Diagnostics Report...
+2023-08-04 01:27:53 +0000;    com.OpenIntelWireless.HeliPort;    HeliPort;    ERROR: Failed get card state
+2023-08-04 01:27:55 +0000;    com.OpenIntelWireless.HeliPort;    HeliPort;    ERROR: Failed get card state
+2023-08-04 01:27:57 +0000;    com.OpenIntelWireless.HeliPort;    HeliPort;    ERROR: Failed get card state
+
+Time ran: 2023-08-03 20:28:09.5140
+HeliPort Version: 1.4.1 (Build 1.4.1-stable-9b41d56)
+
+macOS Version 13.4.1 (c) (Build 22F770820d)
