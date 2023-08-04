@@ -13,7 +13,7 @@ Gpu: 6700xt (disabled with ssdt)
 
 Gpu: 580 2048sp (flashed to a 570 bios)
 
-Ram: 3200mhz 2x16 + 2x8 g.skill ripjaws V (dont worry, they are the same spec just different sizes)
+Ram: 3200mhz 2x16 + 2x8 g.skill ripjaws V (dont worry, they are the same spec (and same brand of chip manufacture) just different sizes)
 
 ssd: samsung 980 1TB (i have others, but they are irrelavent cuz I'm not installing to them)
 
